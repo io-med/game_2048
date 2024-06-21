@@ -4,5 +4,5 @@
 
 Made with plain JS, HTML and CSS with SCSS preprocessor.
 
-    - [DEMO LINK](https://io-med.github.io/game_2048/)
+  - [DEMO LINK](https://io-med.github.io/game_2048/)
 
