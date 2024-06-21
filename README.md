@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# 2048 game
+
+2048 game. Use arrows to play the game. Use arrows to play.
+
+Made with plain JS, HTML and CSS with SCSS preprocessor.
+
+    - [DEMO LINK](https://io-med.github.io/game_2048/)
+
